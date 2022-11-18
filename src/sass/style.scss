@@ -1,0 +1,17 @@
+@import "promo";
+@import "_header";
+@import "_buttons";
+@import "benefits";
+@import "consultation";
+@import "title";
+@import "forms";
+@import "media";
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 950px;
+  margin: 0 auto;
+}
